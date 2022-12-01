@@ -1,5 +1,15 @@
+body{
+    font-family: fantasy;
+
+}
+
 nav{
     background-color:#FFED4F;
+    
+}
+a{
+    color: #F18C16;
+    text-decoration-line: none;
 }
 #btn1{
     background-color: #17F054;
@@ -7,13 +17,7 @@ nav{
     border: none;
     width: 100px;
     height: 50px;
-}
-#btn2{
-    background-color: #FFFFFF;
-    border-radius : 50px;
-    border: none;
-    width: 100px;
-    height: 50px;
+    
 }
 #btn3{
     color: white;
@@ -23,8 +27,32 @@ nav{
     font-size: 24px;
     width: 350px;
     height: 80px;
-    margin-top: 140%;
+
+}
+#sp{
+    padding-top: 32%;
     margin-left: 70px;
+    
+}
+#btn4{
+    color: white;
+    background-color: #F18C16;
+    border-radius : 12px;
+    border: none;
+    font-size: 24px;
+    width: 250px;
+    height: 60px;
+}
+
+#btn5{
+    color: white;
+    background-color: #F18C16;
+    border-radius : 12px;
+    border: none;
+    font-size: 24px;
+    width: 250px;
+    height: 60px;
+ 
 }
 .nav-link{
     color: black;
@@ -41,4 +69,15 @@ li{
     height: 800px;
     width: 100%;
     
+}
+#con1{
+    
+}
+#card1{
+    background-color: chocolate;
+    color: white;
+}
+#card2{
+    background-color: chocolate;
+    color:  white;
 }
