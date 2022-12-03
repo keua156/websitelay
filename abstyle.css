@@ -24,4 +24,14 @@ li{
 }
 #profile{
     font-size: 52px;
+} 
+#nav1{
+    background-color: #FFED4F;
+}
+.card-title{
+    text-align: center;
+}
+.card{
+    font-size: 26px;
+    border: none;
 }

@@ -1,5 +1,6 @@
 body{
     font-family: fantasy;
+    
 
 }
 
@@ -70,9 +71,6 @@ li{
     width: 100%;
     
 }
-#con1{
-    
-}
 #card1{
     background-color: chocolate;
     color: white;
@@ -80,4 +78,7 @@ li{
 #card2{
     background-color: chocolate;
     color:  white;
+}
+.card-title{
+    text-align: center;
 }
