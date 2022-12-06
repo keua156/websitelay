@@ -33,7 +33,11 @@ li{
 .card{
     font-size: 26px;
     border: none;
+    align-items: center;
 }
 .nonee{
     list-style: none;
+}
+.imged{
+    width: 240px;  
 }

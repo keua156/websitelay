@@ -1,7 +1,5 @@
 body{
     font-family: fantasy;
-    
-
 }
 
 nav{
@@ -23,13 +21,26 @@ a{
 #btn3{
     color: white;
     background-color: #F18C16;
-    border-radius : 12px;
+    border-radius : 20px;
+    font-size: clamp(0.50px, 4vw, 60px);
     border: none;
-    font-size: 24px;
-    width: 350px;
-    height: 80px;
+    height: 100%;
+    letter-spacing: 0.5px;
+    line-height: 350%;
+    padding: 0px 1rem;
+    pointer-events: all;
+    position: relative;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    vertical-align: left;
+    width:100%;
+    
 
 }
+#bodytextonpic{
+    text-align: left;
+}
+
 #sp{
     padding-top: 32%;
     margin-left: 70px;
@@ -64,11 +75,11 @@ li{
     padding-right: 25px;
 }
 .backgg{
-    background-image: url(img/backgg.jpg);
+    /* background-image: url(img/backgg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
-    width: 100%;
+    width: 100%; */
     
 }
 #card1{
