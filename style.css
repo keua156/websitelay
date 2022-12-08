@@ -1,5 +1,7 @@
 body{
     font-family: fantasy;
+    padding: 0%;
+    margin: 0%;
 }
 
 nav{
@@ -25,17 +27,17 @@ a{
     font-size: clamp(0.50px, 4vw, 60px);
     border: none;
     height: 100%;
-    letter-spacing: 0.5px;
-    line-height: 350%;
+    letter-spacing: 0px;
+    line-height: 1860%;
     padding: 0px 1rem;
     pointer-events: all;
     position: relative;
     text-decoration-line: none;
     text-transform: uppercase;
     vertical-align: left;
-    width:100%;
-    
-
+}
+.card-img-overlay{
+    margin-left: 5px ;
 }
 #bodytextonpic{
     text-align: left;
